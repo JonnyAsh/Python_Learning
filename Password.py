@@ -2,7 +2,7 @@ import time;
 
 password=input("What is your password?")
 
-while password!="1234":
+while password!=".adghbtR?1":
     print("Error")
     time.sleep(10)
     password=input("What is your password?")
